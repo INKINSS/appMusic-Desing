@@ -6,3 +6,5 @@ gracias por pasarte por aquí, este es un diseño de una aplicacion streaming de
 ### listado de canciones favoritas
 ### albumes más escuchados
 todo esto con herramientas basicas e indispensables para una app de streaming de musica y un diseño moderno y ordenado.
+
+![](https://github.com/INKINSS/appMusic-Desing/blob/main/Captura%20de%20pantalla%202024-05-10%20080935.png)
